@@ -16,4 +16,4 @@ Segala issues yang masuk setelah deadline +4 jam, maka ada pengurangan nilai tug
 
 ---
 
-> Magic is believing in yourself, if you can do that, you can make anything happen.
+> Magic is believing in yourself, if you can do that, you can make anything happen. .
